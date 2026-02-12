@@ -21,6 +21,7 @@ A robust RESTful API for managing schools, classrooms, and students, built with 
 - **Security**: Rate limiting, security headers (Helmet), and input validation.
 
 ## Technologies
+- **Language**: Typescript
 - **Framework**: NestJS
 - **Database**: MongoDB (Mongoose)
 - **Caching**: Redis
